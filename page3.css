@@ -1,4 +1,4 @@
- body {
+body {
             margin: 0;
             padding: 20px;
             background-color: #976314;    
@@ -91,7 +91,7 @@
             background: rgba(0, 0, 0, 0);
         }
 
-        .description {
+        .description {           
             margin-top: 10px;
             font-size: 0.85rem;
             max-width: 350px;
